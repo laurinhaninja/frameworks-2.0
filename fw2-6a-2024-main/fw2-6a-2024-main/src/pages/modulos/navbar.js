@@ -10,6 +10,7 @@ export default function Menu() {
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="#link">Produtos</Nav.Link>
+            <Nav.Link href="#link">Promessas</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
